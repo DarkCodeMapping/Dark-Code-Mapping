@@ -19,3 +19,5 @@ DKCode_shop_01_v1.0 : ![](https://img.shields.io/github/downloads/DarkCodeMappin
 DKCode_shop_02_v1.0 : ![](https://img.shields.io/github/downloads/DarkCodeMapping/Dark-Code-Mapping/DKCode_shop_02_v1.0/total)
 
 DKCode_shop_03_v1.0 : ![](https://img.shields.io/github/downloads/DarkCodeMapping/Dark-Code-Mapping/DKCode_shop_03_v1.0/total)
+
+DKCode_tarnow_village_v1.0 : ![](https://img.shields.io/github/downloads/DarkCodeMapping/Dark-Code-Mapping/DKCode_tarnow_village_v1.0/total)
