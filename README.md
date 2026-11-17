@@ -1,3 +1,12 @@
 ![Téléchargements](https://img.shields.io/github/downloads/DarkCodeMapping/Dark-Code-Mapping/total)
 
 DKCode_bunker_cmc_v1.0 : ![](https://img.shields.io/github/downloads/DarkCodeMapping/Dark-Code-Mapping/DKCode_bunker_cmc_v1.0/total)
+DKCode_green_lake_v1.0 : ![](https://img.shields.io/github/downloads/DarkCodeMapping/Dark-Code-Mapping/DKCode_green_lake_v1.0/total)
+DKCode_le_terminus_v1.0 : ![](https://img.shields.io/github/downloads/DarkCodeMapping/Dark-Code-Mapping/DKCode_le_terminus_v1.0/total)
+dkcode_pont_storozh_v1.0 : ![](https://img.shields.io/github/downloads/DarkCodeMapping/Dark-Code-Mapping/dkcode_pont_storozh_v1.0/total)
+DKCode_jevai_village_v1.0 : ![](https://img.shields.io/github/downloads/DarkCodeMapping/Dark-Code-Mapping/DKCode_jevai_village_v1.0/total)
+DKCode_vajkovo_village_v1.0 : ![](https://img.shields.io/github/downloads/DarkCodeMapping/Dark-Code-Mapping/DKCode_vajkovo_village_v1.0/total)
+DKCode_restaurant_01_v1.0 : ![](https://img.shields.io/github/downloads/DarkCodeMapping/Dark-Code-Mapping/DKCode_restaurant_01_v1.0/total)
+DKCode_shop_01_v1.0 : ![](https://img.shields.io/github/downloads/DarkCodeMapping/Dark-Code-Mapping/DKCode_shop_01_v1.0/total)
+DKCode_shop_02_v1.0 : ![](https://img.shields.io/github/downloads/DarkCodeMapping/Dark-Code-Mapping/DKCode_shop_02_v1.0/total)
+DKCode_shop_03_v1.0 : ![](https://img.shields.io/github/downloads/DarkCodeMapping/Dark-Code-Mapping/DKCode_shop_03_v1.0/total)
